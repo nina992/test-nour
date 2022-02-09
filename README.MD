@@ -15,7 +15,7 @@ We want to check your ability:
 
 ## Period
 
-- 10 days (2021/02/10-2021/2/20 JST)
+- 10 days (2021/02/11-2021/2/21 JST)
 - Note: In the second week we would like to do pair programming with you, so keep that in mind
 
 ## Specification
